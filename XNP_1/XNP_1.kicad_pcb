@@ -405,9 +405,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b03fe385-4b43-4aa9-9574-3588d6233004))
     (fp_line (start 1 0.625) (end -1 0.625)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 6b4fbd30-b6e2-4cd8-ac0d-cff826e3452c))
-    (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
+    (pad "1" smd roundrect (at -0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902439)
       (net 4 "Net-(J3-Pin_1)") (pintype "passive") (tstamp cea83df4-7628-4f12-a694-d2b34d921c07))
-    (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
+    (pad "2" smd roundrect (at 0.9125 0) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902439)
       (net 7 "Net-(JP2-A)") (pintype "passive") (tstamp 24fa328a-dde4-473a-9f21-17b56b756889))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
@@ -459,9 +459,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ce7acfbe-29fd-4ea7-99e2-1ab70bb901c9))
     (fp_line (start 1 0.625) (end -1 0.625)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 6c78ee45-c1fb-4eee-bfb0-587a6bbf7250))
-    (pad "1" smd roundrect (at -0.9125 0 270) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
+    (pad "1" smd roundrect (at -0.9125 0 270) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902439)
       (net 3 "Net-(D1-K)") (pintype "passive") (tstamp bc51d2e2-232b-476d-b6df-ce53f0d457b5))
-    (pad "2" smd roundrect (at 0.9125 0 270) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902)
+    (pad "2" smd roundrect (at 0.9125 0 270) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902439)
       (net 2 "Net-(C1-Pad2)") (pintype "passive") (tstamp fed63b13-fd6c-4dc8-837c-2ea434721227))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
